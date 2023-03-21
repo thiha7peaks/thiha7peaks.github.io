@@ -2,36 +2,36 @@
   {
     "id": "1",
     "title": "Bangkok",
-    "img_url": ""
+    "img_url": "https://thiha7peaks.github.io/img/bangkok.jpeg"
   },
   {
     "id": "2",
-    "title": "Bangkok",
-    "img_url": ""
+    "title": "Chiang Mai",
+    "img_url": "https://thiha7peaks.github.io/img/chiang_mai.jpeg"
   },
   {
     "id": "3",
-    "title": "Bangkok",
-    "img_url": ""
+    "title": "Chiang Rai",
+    "img_url": "https://thiha7peaks.github.io/img/chiang_rai.jpeg"
   },
   {
     "id": "4",
-    "title": "Bangkok",
-    "img_url": ""
+    "title": "Krabi",
+    "img_url": "https://thiha7peaks.github.io/img/krabi.jpeg"
   },
   {
     "id": "5",
-    "title": "Bangkok",
-    "img_url": ""
+    "title": "Pattaya",
+    "img_url": "https://thiha7peaks.github.io/img/pattaya.jpeg"
   },
   {
     "id": "6",
-    "title": "Bangkok",
-    "img_url": ""
+    "title": "Thani",
+    "img_url": "https://thiha7peaks.github.io/img/thani.jpeg"
   },
   {
     "id": "7",
-    "title": "Bangkok",
-    "img_url": ""
+    "title": "Surat Thani",
+    "img_url": "https://thiha7peaks.github.io/img/surat_thani.jpeg"
   }
 ]
